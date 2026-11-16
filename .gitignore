@@ -1,0 +1,18 @@
+# Résultats des scripts (contiennent des comptes réels du tenant)
+output/*
+!output/.gitkeep
+
+# Ne jamais versionner de secrets ni de certificats
+*.cer
+*.pfx
+*.pem
+*.key
+*.secret*
+CreateUsersTemplate*.csv
+inventaire-*.csv
+verification-*.csv
+
+# Divers
+.vscode/
+*.log
+Thumbs.db

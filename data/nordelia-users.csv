@@ -1,0 +1,21 @@
+﻿Prénom [givenName];Nom [surname];Nom d'affichage [displayName];Nom d'utilisateur principal [userPrincipalName];Poste [jobTitle];Nom de l'entreprise [companyName];Département [department];Lieu du bureau [officeLocation];Gestionnaire [manager];Ville [city];Pays ou région [country];Lieu d'utilisation [usageLocation];Méthode de création
+Claire;Fontaine;Claire Fontaine;claire.fontaine@nordelia.onmicrosoft.com;Directrice générale;Nordelia;Direction;Paris;;Paris;France;FR;2.1 Manuel (portail)
+Julien;Moreau;Julien Moreau;julien.moreau@nordelia.onmicrosoft.com;Directeur financier;Nordelia;Finance;Paris;Claire Fontaine;Paris;France;FR;2.1 Manuel (portail)
+Ibrahima;Diallo;Ibrahima Diallo;ibrahima.diallo@nordelia.onmicrosoft.com;Directeur des opérations;Nordelia;Direction;Paris;Claire Fontaine;Paris;France;FR;2.2 Import CSV (portail)
+Awa;Ndiaye;Awa Ndiaye;awa.ndiaye@nordelia.onmicrosoft.com;Comptable;Nordelia;Finance;Paris;Julien Moreau;Paris;France;FR;2.2 Import CSV (portail)
+Thomas;Lefevre;Thomas Lefevre;thomas.lefevre@nordelia.onmicrosoft.com;Contrôleur de gestion;Nordelia;Finance;Paris;Julien Moreau;Paris;France;FR;2.2 Import CSV (portail)
+Sophie;Martin;Sophie Martin;sophie.martin@nordelia.onmicrosoft.com;Responsable RH;Nordelia;Ressources humaines;Paris;Claire Fontaine;Paris;France;FR;2.2 Import CSV (portail)
+Karim;Benali;Karim Benali;karim.benali@nordelia.onmicrosoft.com;Chargé RH;Nordelia;Ressources humaines;Paris;Sophie Martin;Paris;France;FR;2.2 Import CSV (portail)
+Marc;Dubois;Marc Dubois;marc.dubois@nordelia.onmicrosoft.com;Directeur commercial;Nordelia;Commercial;Paris;Claire Fontaine;Paris;France;FR;2.2 Import CSV (portail)
+Nicolas;Roux;Nicolas Roux;nicolas.roux@nordelia.onmicrosoft.com;Responsable informatique;Nordelia;Informatique;Paris;Ibrahima Diallo;Paris;France;FR;2.2 Import CSV (portail)
+Ousmane;Cisse;Ousmane Cisse;ousmane.cisse@nordelia.onmicrosoft.com;Responsable consultants;Nordelia;Consultants;Dakar;Ibrahima Diallo;Dakar;Sénégal;SN;2.2 Import CSV (portail)
+Lea;Girard;Lea Girard;lea.girard@nordelia.onmicrosoft.com;Commerciale;Nordelia;Commercial;Paris;Marc Dubois;Paris;France;FR;2.3 Script PowerShell
+Hugo;Petit;Hugo Petit;hugo.petit@nordelia.onmicrosoft.com;Commercial;Nordelia;Commercial;Paris;Marc Dubois;Paris;France;FR;2.3 Script PowerShell
+Fatou;Sow;Fatou Sow;fatou.sow@nordelia.onmicrosoft.com;Responsable commerciale Dakar;Nordelia;Commercial;Dakar;Marc Dubois;Dakar;Sénégal;SN;2.3 Script PowerShell
+Moussa;Ba;Moussa Ba;moussa.ba@nordelia.onmicrosoft.com;Commercial;Nordelia;Commercial;Dakar;Fatou Sow;Dakar;Sénégal;SN;2.3 Script PowerShell
+Aminata;Faye;Aminata Faye;aminata.faye@nordelia.onmicrosoft.com;Commerciale;Nordelia;Commercial;Dakar;Fatou Sow;Dakar;Sénégal;SN;2.3 Script PowerShell
+Cheikh;Mbaye;Cheikh Mbaye;cheikh.mbaye@nordelia.onmicrosoft.com;Technicien support;Nordelia;Informatique;Dakar;Nicolas Roux;Dakar;Sénégal;SN;2.3 Script PowerShell
+Emma;Laurent;Emma Laurent;emma.laurent@nordelia.onmicrosoft.com;Technicienne support;Nordelia;Informatique;Paris;Nicolas Roux;Paris;France;FR;2.3 Script PowerShell
+Mariama;Diop;Mariama Diop;mariama.diop@nordelia.onmicrosoft.com;Consultante;Nordelia;Consultants;Dakar;Ousmane Cisse;Dakar;Sénégal;SN;2.3 Script PowerShell
+Pape;Gueye;Pape Gueye;pape.gueye@nordelia.onmicrosoft.com;Consultant;Nordelia;Consultants;Dakar;Ousmane Cisse;Dakar;Sénégal;SN;2.3 Script PowerShell
+Khady;Sarr;Khady Sarr;khady.sarr@nordelia.onmicrosoft.com;Consultante;Nordelia;Consultants;Dakar;Ousmane Cisse;Dakar;Sénégal;SN;2.3 Script PowerShell

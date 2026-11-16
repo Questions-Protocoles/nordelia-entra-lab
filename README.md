@@ -33,6 +33,7 @@ L'historique détaillé est dans [CHANGELOG.md](CHANGELOG.md).
 | [New-NordeliaADUsers.ps1](scripts/New-NordeliaADUsers.ps1) | Crée les comptes dans l'Active Directory local (module 8). Mode `-Simulation` | Oui (AD) |
 | [Get-NordeliaMfaInventory.ps1](scripts/Get-NordeliaMfaInventory.ps1) | Inventaire des méthodes d'authentification et taux de couverture MFA | Non |
 | [Get-NordeliaAppInventory.ps1](scripts/Get-NordeliaAppInventory.ps1) | Inventaire des applications : propriétaires, accès, permissions, expiration des certificats et secrets | Non |
+| [Export-NordeliaTenant.ps1](scripts/Export-NordeliaTenant.ps1) | Export de la configuration du tenant (comptes, groupes, rôles, stratégies, applications) en CSV et JSON, pour la reconstruire dans un autre tenant | Non |
 
 Principes communs : connexion déléguée avec les scopes minimaux, mots de passe **demandés à l'exécution** (jamais stockés), scripts relançables sans créer de doublon, mode simulation avant toute écriture.
 
@@ -56,6 +57,7 @@ data/      Liste maîtresse des salariés fictifs (nordelia-users.csv)
 docs/      Fiches de procédure par module et rapport mensuel
 scripts/   Scripts PowerShell Microsoft Graph et Active Directory
 output/    Résultats des scripts (ignoré par Git)
+export/    Exports du tenant (créé par Export-NordeliaTenant.ps1, ignoré par Git)
 ```
 
 ## Confidentialité

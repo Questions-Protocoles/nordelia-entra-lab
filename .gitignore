@@ -16,3 +16,6 @@ verification-*.csv
 .vscode/
 *.log
 Thumbs.db
+
+# Exports du tenant (données réelles)
+export/
